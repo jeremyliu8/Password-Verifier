@@ -1,4 +1,4 @@
-password-verifier
+Password-Verifier
 =================
 
 Liu, Jeremy. 2014
